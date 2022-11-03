@@ -4,8 +4,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaolbreaker&&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/gaolbreaker/github-readme-stats)
 
-- 🔭 I’m a software engineer
-- 🤩  I believe that technology and automation can make life better, easier, and more fulfilling for everyone
+- 🔭 I’m a software engineer who loves solving hard problems (being well-caffeinated helps a lot ☕ 🧋 🍵 )
+- 🖌️ I enjoy learning new technologies, making new connections between disparate ideas, and making an impact on the lives of other people
+- 🤩 I believe that technology and automation can make life better, easier, and more fulfilling for every human being
+- 🧑‍🏫 Love learning and reading. Currently reading The War of Art(https://stevenpressfield.com/books/the-war-of-art/). Past favorites include Deep Work(https://www.calnewport.com/books/deep-work/), Atomic Habits(https://jamesclear.com/atomic-habits), and Tools for Conviviality(https://northernschool.info/node/600)
 - 📍 Based in the San Francisco Bay Area
 
 ### Language and Tools
