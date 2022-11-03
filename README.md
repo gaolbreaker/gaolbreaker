@@ -1,4 +1,4 @@
-### Welcome one and all: I am Elbert Chan 👋
+### Welcome one and all: I'm Elbert 👋
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elbertchan/)](https://www.linkedin.com/in/elbertchan/)
 
