@@ -1,4 +1,5 @@
-### Hi, I'm Elbert Chan 👋 ([portfolio](https://gaolbreaker.github.io))
+### Hi, I'm Elbert Chan 👋 
+([my portfolio](https://gaolbreaker.github.io))
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elbertchan/)](https://www.linkedin.com/in/elbertchan/)
 
